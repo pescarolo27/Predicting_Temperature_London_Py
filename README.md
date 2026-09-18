@@ -8,7 +8,8 @@ This project was done in January, 2026. Machine learning was utilized in this pr
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Objectives:** Use machine learning to predict the mean temperature in London, England, logging root mean squared error (RMSE) metrics using `mlflow`.
+### Objectives
+Use machine learning to predict the mean temperature in London, England, logging root mean squared error (RMSE) metrics using `mlflow`.
 - Build a model to predict `"mean_temp"` with a RMSE of 3 or less.
 - Use MLflow to log any models that are trained, their hyperparameters, & respective RMSE scores (include `"rmse"` as part of the metric name).
 - Search all `mlflow` runs & store the results (`experiment_results`).
